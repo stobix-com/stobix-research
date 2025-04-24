@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+coverage.json
+.env
+
+.vscode/
+.idea/
+.DS_Store
+
+Thumbs.db
