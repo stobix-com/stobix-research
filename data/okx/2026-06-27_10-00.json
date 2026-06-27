@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-27T10:00:00.009Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "104.03"
+    },
+    {
+      "token": "ARB",
+      "apy": "91.08"
+    },
+    {
+      "token": "ASTER"
+    },
+    {
+      "token": "AVNT",
+      "apy": "341.35"
+    },
+    {
+      "token": "BARD",
+      "apy": "200.53"
+    },
+    {
+      "token": "BCH",
+      "apy": "240.47"
+    },
+    {
+      "token": "BETH",
+      "apy": "158.37"
+    },
+    {
+      "token": "BTC",
+      "apy": "126.45"
+    },
+    {
+      "token": "DASH",
+      "apy": "175.97"
+    },
+    {
+      "token": "DOGE",
+      "apy": "107.28"
+    },
+    {
+      "token": "ETC",
+      "apy": "40.45"
+    },
+    {
+      "token": "ETH",
+      "apy": "185.68"
+    },
+    {
+      "token": "FIL",
+      "apy": "52.12"
+    },
+    {
+      "token": "HYPE",
+      "apy": "200.09"
+    },
+    {
+      "token": "LINEA",
+      "apy": "101.12"
+    },
+    {
+      "token": "LINK",
+      "apy": "84.63"
+    },
+    {
+      "token": "LTC",
+      "apy": "124.59"
+    },
+    {
+      "token": "NIGHT",
+      "apy": "240.41"
+    },
+    {
+      "token": "OKB",
+      "apy": "147.87"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "140.72"
+    },
+    {
+      "token": "OP",
+      "apy": "71.76"
+    },
+    {
+      "token": "ORDI",
+      "apy": "90.55"
+    },
+    {
+      "token": "PENGU",
+      "apy": "126.40"
+    },
+    {
+      "token": "PEPE",
+      "apy": "17.11"
+    },
+    {
+      "token": "PUMP",
+      "apy": "280.70"
+    },
+    {
+      "token": "SOL",
+      "apy": "139.18"
+    },
+    {
+      "token": "SUI",
+      "apy": "184.08"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "84.16"
+    },
+    {
+      "token": "USDC",
+      "apy": "183.96"
+    },
+    {
+      "token": "USDG",
+      "apy": "185.68"
+    },
+    {
+      "token": "USDT",
+      "apy": "423.63"
+    },
+    {
+      "token": "VIRTUAL",
+      "apy": "95.69"
+    },
+    {
+      "token": "WLD",
+      "apy": "36.77"
+    },
+    {
+      "token": "WLFI",
+      "apy": "188.02"
+    },
+    {
+      "token": "XAUT",
+      "apy": "57.30"
+    },
+    {
+      "token": "XPL",
+      "apy": "423.63"
+    },
+    {
+      "token": "XRP",
+      "apy": "126.40"
+    },
+    {
+      "token": "ZEC",
+      "apy": "133.83"
+    }
+  ]
+}
