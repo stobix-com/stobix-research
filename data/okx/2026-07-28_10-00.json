@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-28T10:00:00.689Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "167.94"
+    },
+    {
+      "token": "ARB",
+      "apy": "111.80"
+    },
+    {
+      "token": "ASTER",
+      "apy": "46.77"
+    },
+    {
+      "token": "AVNT",
+      "apy": "260.50"
+    },
+    {
+      "token": "BARD",
+      "apy": "259.97"
+    },
+    {
+      "token": "BCH",
+      "apy": "260.51"
+    },
+    {
+      "token": "BETH",
+      "apy": "281.19"
+    },
+    {
+      "token": "BTC",
+      "apy": "181.69"
+    },
+    {
+      "token": "DASH",
+      "apy": "167.94"
+    },
+    {
+      "token": "DOGE",
+      "apy": "163.94"
+    },
+    {
+      "token": "ETC",
+      "apy": "89.99"
+    },
+    {
+      "token": "ETH",
+      "apy": "280.69"
+    },
+    {
+      "token": "FIL",
+      "apy": "193.45"
+    },
+    {
+      "token": "HYPE",
+      "apy": "189.99"
+    },
+    {
+      "token": "LINEA",
+      "apy": "280.25"
+    },
+    {
+      "token": "LINK",
+      "apy": "153.57"
+    },
+    {
+      "token": "LTC",
+      "apy": "163.89"
+    },
+    {
+      "token": "NIGHT",
+      "apy": "341.35"
+    },
+    {
+      "token": "OKB",
+      "apy": "196.06"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "182.95"
+    },
+    {
+      "token": "OP",
+      "apy": "187.51"
+    },
+    {
+      "token": "ORDI",
+      "apy": "120.02"
+    },
+    {
+      "token": "PENGU",
+      "apy": "200.09"
+    },
+    {
+      "token": "PEPE",
+      "apy": "101.09"
+    },
+    {
+      "token": "PUMP",
+      "apy": "442.87"
+    },
+    {
+      "token": "SOL",
+      "apy": "182.95"
+    },
+    {
+      "token": "SUI",
+      "apy": "192.76"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "159.91"
+    },
+    {
+      "token": "USDC",
+      "apy": "260.92"
+    },
+    {
+      "token": "USDG",
+      "apy": "262.64"
+    },
+    {
+      "token": "USDT",
+      "apy": "473.99"
+    },
+    {
+      "token": "VIRTUAL",
+      "apy": "124.59"
+    },
+    {
+      "token": "WLD",
+      "apy": "240.35"
+    },
+    {
+      "token": "WLFI",
+      "apy": "190.03"
+    },
+    {
+      "token": "XAAPL",
+      "apy": "100.92"
+    },
+    {
+      "token": "XAUT",
+      "apy": "18.60"
+    },
+    {
+      "token": "XINTC",
+      "apy": "261.38"
+    },
+    {
+      "token": "XMRVL",
+      "apy": "216.42"
+    },
+    {
+      "token": "XMU",
+      "apy": "463.23"
+    },
+    {
+      "token": "XNVDA",
+      "apy": "184.00"
+    },
+    {
+      "token": "XPL",
+      "apy": "361.61"
+    },
+    {
+      "token": "XQQQ",
+      "apy": "55.30"
+    },
+    {
+      "token": "XRP",
+      "apy": "155.80"
+    },
+    {
+      "token": "XSNDK",
+      "apy": "323.14"
+    },
+    {
+      "token": "XSOXL",
+      "apy": "473.99"
+    },
+    {
+      "token": "XSPCX",
+      "apy": "191.49"
+    },
+    {
+      "token": "XSPY",
+      "apy": "11.44"
+    },
+    {
+      "token": "XTSLA",
+      "apy": "171.95"
+    },
+    {
+      "token": "ZEC",
+      "apy": "240.50"
+    }
+  ]
+}
