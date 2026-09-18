@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-18T10:00:00.009Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "107.79"
+    },
+    {
+      "token": "AVNT",
+      "apy": "220.21"
+    },
+    {
+      "token": "BCH",
+      "apy": "280.92"
+    },
+    {
+      "token": "BETH",
+      "apy": "220.71"
+    },
+    {
+      "token": "BTC",
+      "apy": "175.97"
+    },
+    {
+      "token": "DOGE",
+      "apy": "171.95"
+    },
+    {
+      "token": "ETC",
+      "apy": "24.04"
+    },
+    {
+      "token": "ETH",
+      "apy": "222.02"
+    },
+    {
+      "token": "FIL",
+      "apy": "96.72"
+    },
+    {
+      "token": "HYPE",
+      "apy": "117.81"
+    },
+    {
+      "token": "LINK",
+      "apy": "135.84"
+    },
+    {
+      "token": "LTC",
+      "apy": "179.99"
+    },
+    {
+      "token": "NIGHT",
+      "apy": "360.86"
+    },
+    {
+      "token": "OKB",
+      "apy": "75.79"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "173.47"
+    },
+    {
+      "token": "PEPE",
+      "apy": "143.90"
+    },
+    {
+      "token": "PUMP",
+      "apy": "463.37"
+    },
+    {
+      "token": "RLUSD",
+      "apy": "222.02"
+    },
+    {
+      "token": "SOL",
+      "apy": "167.94"
+    },
+    {
+      "token": "SUI",
+      "apy": "200.39"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "107.79"
+    },
+    {
+      "token": "UNI",
+      "apy": "182.64"
+    },
+    {
+      "token": "USDC",
+      "apy": "220.20"
+    },
+    {
+      "token": "USDG",
+      "apy": "238.80"
+    },
+    {
+      "token": "USDT",
+      "apy": "463.37"
+    },
+    {
+      "token": "WLD",
+      "apy": "88.53"
+    },
+    {
+      "token": "WLFI",
+      "apy": "127.82"
+    },
+    {
+      "token": "xAAPL",
+      "apy": "23.32"
+    },
+    {
+      "token": "xAMD",
+      "apy": "113.05"
+    },
+    {
+      "token": "xARM",
+      "apy": "145.99"
+    },
+    {
+      "token": "XAUT",
+      "apy": "49.83"
+    },
+    {
+      "token": "xAVGO",
+      "apy": "57.86"
+    },
+    {
+      "token": "xBE",
+      "apy": "180.08"
+    },
+    {
+      "token": "xCBRS",
+      "apy": "150.98"
+    },
+    {
+      "token": "xCOIN",
+      "apy": "135.31"
+    },
+    {
+      "token": "xCRCL",
+      "apy": "156.81"
+    },
+    {
+      "token": "xCRWV",
+      "apy": "188.56"
+    },
+    {
+      "token": "xDELL",
+      "apy": "124.23"
+    },
+    {
+      "token": "xEWY",
+      "apy": "65.98"
+    },
+    {
+      "token": "xGOOGL",
+      "apy": "69.20"
+    },
+    {
+      "token": "xHOOD",
+      "apy": "118.70"
+    },
+    {
+      "token": "xINTC",
+      "apy": "186.55"
+    },
+    {
+      "token": "xIREN",
+      "apy": "177.26"
+    },
+    {
+      "token": "xLITE",
+      "apy": "171.63"
+    },
+    {
+      "token": "xMETA",
+      "apy": "64.09"
+    },
+    {
+      "token": "xMRVL",
+      "apy": "182.91"
+    },
+    {
+      "token": "xMSFT",
+      "apy": "21.19"
+    },
+    {
+      "token": "xMSTR",
+      "apy": "146.43"
+    },
+    {
+      "token": "xMU",
+      "apy": "166.71"
+    },
+    {
+      "token": "xNBIS",
+      "apy": "179.71"
+    },
+    {
+      "token": "xNVDA",
+      "apy": "56.09"
+    },
+    {
+      "token": "xORCL",
+      "apy": "88.06"
+    },
+    {
+      "token": "XPL",
+      "apy": "361.61"
+    },
+    {
+      "token": "xPLTR",
+      "apy": "110.50"
+    },
+    {
+      "token": "xQQQ",
+      "apy": "25.04"
+    },
+    {
+      "token": "xRKLB",
+      "apy": "129.65"
+    },
+    {
+      "token": "XRP",
+      "apy": "200.48"
+    },
+    {
+      "token": "xSKHY",
+      "apy": "115.95"
+    },
+    {
+      "token": "xSMCI",
+      "apy": "151.15"
+    },
+    {
+      "token": "xSNDK",
+      "apy": "154.80"
+    },
+    {
+      "token": "xSNOW",
+      "apy": "69.29"
+    },
+    {
+      "token": "xSOXL",
+      "apy": "242.37"
+    },
+    {
+      "token": "xSPCX",
+      "apy": "102.20"
+    },
+    {
+      "token": "xTSLA",
+      "apy": "61.61"
+    },
+    {
+      "token": "ZEC",
+      "apy": "381.92"
+    }
+  ]
+}
