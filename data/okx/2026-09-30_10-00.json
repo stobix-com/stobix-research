@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-30T10:00:00.012Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "222.10"
+    },
+    {
+      "token": "AVNT",
+      "apy": "503.53"
+    },
+    {
+      "token": "BCH",
+      "apy": "341.35"
+    },
+    {
+      "token": "BETH",
+      "apy": "240.85"
+    },
+    {
+      "token": "BTC",
+      "apy": "177.48"
+    },
+    {
+      "token": "DOGE",
+      "apy": "280.66"
+    },
+    {
+      "token": "ETC",
+      "apy": "85.67"
+    },
+    {
+      "token": "ETH",
+      "apy": "240.35"
+    },
+    {
+      "token": "FIL",
+      "apy": "114.09"
+    },
+    {
+      "token": "HYPE",
+      "apy": "190.03"
+    },
+    {
+      "token": "LINK",
+      "apy": "200.09"
+    },
+    {
+      "token": "LTC",
+      "apy": "280.81"
+    },
+    {
+      "token": "NIGHT",
+      "apy": "401.37"
+    },
+    {
+      "token": "OKB",
+      "apy": "111.80"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "192.42"
+    },
+    {
+      "token": "PEPE",
+      "apy": "88.21"
+    },
+    {
+      "token": "PUMP",
+      "apy": "402.20"
+    },
+    {
+      "token": "RLUSD",
+      "apy": "207.56"
+    },
+    {
+      "token": "SOL",
+      "apy": "188.41"
+    },
+    {
+      "token": "SUI",
+      "apy": "442.87"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "140.12"
+    },
+    {
+      "token": "UNI",
+      "apy": "261.15"
+    },
+    {
+      "token": "USDC",
+      "apy": "206.06"
+    },
+    {
+      "token": "USDG",
+      "apy": "321.94"
+    },
+    {
+      "token": "USDT",
+      "apy": "503.53"
+    },
+    {
+      "token": "WLD",
+      "apy": "173.61"
+    },
+    {
+      "token": "WLFI",
+      "apy": "200.02"
+    },
+    {
+      "token": "xAAPL",
+      "apy": "22.87"
+    },
+    {
+      "token": "xAMD",
+      "apy": "192.35"
+    },
+    {
+      "token": "xARM",
+      "apy": "309.65"
+    },
+    {
+      "token": "XAUT",
+      "apy": "31.99"
+    },
+    {
+      "token": "xAVGO",
+      "apy": "105.31"
+    },
+    {
+      "token": "xBE",
+      "apy": "260.60"
+    },
+    {
+      "token": "xCBRS",
+      "apy": "299.82"
+    },
+    {
+      "token": "xCOIN",
+      "apy": "260.60"
+    },
+    {
+      "token": "xCRCL",
+      "apy": "329.33"
+    },
+    {
+      "token": "xCRWV",
+      "apy": "290.00"
+    },
+    {
+      "token": "xDELL",
+      "apy": "231.29"
+    },
+    {
+      "token": "xEWY",
+      "apy": "126.58"
+    },
+    {
+      "token": "xGOOGL",
+      "apy": "107.05"
+    },
+    {
+      "token": "xHOOD",
+      "apy": "231.29"
+    },
+    {
+      "token": "xINTC",
+      "apy": "243.12"
+    },
+    {
+      "token": "xIREN",
+      "apy": "321.55"
+    },
+    {
+      "token": "xLITE",
+      "apy": "290.00"
+    },
+    {
+      "token": "xMETA",
+      "apy": "126.24"
+    },
+    {
+      "token": "xMRVL",
+      "apy": "243.14"
+    },
+    {
+      "token": "xMSFT",
+      "apy": "57.30"
+    },
+    {
+      "token": "xMSTR",
+      "apy": "260.60"
+    },
+    {
+      "token": "xMU",
+      "apy": "378.73"
+    },
+    {
+      "token": "xNBIS",
+      "apy": "321.94"
+    },
+    {
+      "token": "xNVDA",
+      "apy": "97.52"
+    },
+    {
+      "token": "xORCL",
+      "apy": "202.07"
+    },
+    {
+      "token": "XPL",
+      "apy": "463.23"
+    },
+    {
+      "token": "xPLTR",
+      "apy": "126.63"
+    },
+    {
+      "token": "xQQQ",
+      "apy": "73.52"
+    },
+    {
+      "token": "xRKLB",
+      "apy": "250.82"
+    },
+    {
+      "token": "XRP",
+      "apy": "152.78"
+    },
+    {
+      "token": "xSKHY",
+      "apy": "231.29"
+    },
+    {
+      "token": "xSMCI",
+      "apy": "309.65"
+    },
+    {
+      "token": "xSNDK",
+      "apy": "293.04"
+    },
+    {
+      "token": "xSNOW",
+      "apy": "184.25"
+    },
+    {
+      "token": "xSPCX",
+      "apy": "146.10"
+    },
+    {
+      "token": "xSPY",
+      "apy": "24.59"
+    },
+    {
+      "token": "xTSLA",
+      "apy": "105.31"
+    },
+    {
+      "token": "ZEC",
+      "apy": "402.20"
+    }
+  ]
+}
